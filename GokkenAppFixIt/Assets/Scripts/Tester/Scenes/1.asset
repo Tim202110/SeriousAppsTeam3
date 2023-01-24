@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a98449e56baa7349bd207f3be151354, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: 
+    speaker: {fileID: 11400000, guid: 0784a4f2b46b185408be2d117a244471, type: 2}
+  - text: 
+    speaker: {fileID: 11400000, guid: 4d4ea25ae240eda4fbe61740e80b0313, type: 2}
+  - text: 
+    speaker: {fileID: 11400000, guid: 4d4ea25ae240eda4fbe61740e80b0313, type: 2}
+  - text: 
+    speaker: {fileID: 11400000, guid: 4d4ea25ae240eda4fbe61740e80b0313, type: 2}
+  background: {fileID: 21300000, guid: 9a00463eabed39549872ebb5f6a38acd, type: 3}
+  nextScene: {fileID: 11400000, guid: 0172ce43f2f907241b38c621bb590868, type: 2}
